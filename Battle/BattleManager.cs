@@ -14,6 +14,11 @@ public class BattleManager {
         return inst;
     }
 
+    /*
+     * 
+     *  GitHub Test
+     */
+
 	// Update is called once per frame
 	public void CheckBattle () {    //todo : 이부분을 호출하는 부분이 필요함
         if (normalAttackTime != 0)
