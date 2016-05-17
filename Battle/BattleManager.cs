@@ -15,8 +15,7 @@ public class BattleManager {
     }
 
     /*
-     * 
-     *  GitHub Test
+     *  어떻게 쓰는 물건인고
      */
 
 	// Update is called once per frame
