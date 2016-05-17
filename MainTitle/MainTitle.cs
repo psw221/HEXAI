@@ -13,6 +13,8 @@ public class MainTitle : MonoBehaviour {
 	
 	}
 
+    // 이것은 나의 데스크탑 SMK
+
     void OnGUI()
     {
         float btnW = 200f;
