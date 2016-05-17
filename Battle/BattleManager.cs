@@ -18,6 +18,7 @@ public class BattleManager {
      *  어떻게 쓰는 물건인고
      */
 
+    // 여기도 바꾸고
 	// Update is called once per frame
 	public void CheckBattle () {    //todo : 이부분을 호출하는 부분이 필요함
         if (normalAttackTime != 0)

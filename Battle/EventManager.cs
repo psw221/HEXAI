@@ -19,4 +19,5 @@ public class EventManager{
         GameManager.GetInst().StartCoroutine("ShowStageString");
         StageStartEvent = true;
     }
+    // 여기도 바꾸면?
 }
